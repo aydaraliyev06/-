@@ -1,0 +1,23 @@
+.img-face{
+    width: 400px;
+    background-size: cover;
+    border-radius: 10px;
+}
+
+.face{
+    padding-top: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 550px;
+    column-gap: 50px;
+}
+
+.face-sub{
+    font-size: 20px;
+    margin: 9px 0px;
+}
+
+.face-title{
+    font-size: 25px;
+}

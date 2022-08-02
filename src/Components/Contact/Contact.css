@@ -1,0 +1,44 @@
+.films{
+    padding-top: 90px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    row-gap: 20px;
+}
+
+.img-pirat1{
+    border-radius: 10px;
+}
+
+.pirat{
+    display: flex;
+    column-gap: 30px;
+}
+
+.pirat-btns{
+    display: flex;
+    column-gap: 10px;
+}
+
+.pirat-btn{
+    width: 80px;
+    height: 40px;
+    font-size: 17px;
+    background: white;
+    color: black;
+    border: 4px solid white;
+    border-radius: 10px;
+    transition: all 0.2s 0.2s;
+}
+
+.pirat-btn:focus{
+    color: white;
+    background: black;
+}
+
+.pirat-video{
+    display: flex;
+    flex-direction: column;
+    row-gap: 35px;
+    align-items: center;
+}
